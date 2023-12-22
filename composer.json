@@ -1,0 +1,15 @@
+{
+    "name": "rod/php",
+    "description": "chat to acess server websocket",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Doria"
+        }
+    ],
+    "require": {}
+}
